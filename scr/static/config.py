@@ -1,0 +1,1 @@
+basePathApiOrcamento = "http://localhost:5001/gfp/v1/orcamento/"
